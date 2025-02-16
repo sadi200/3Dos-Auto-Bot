@@ -4,8 +4,8 @@ An automated bot for managing multiple 3DOS accounts with proxy support.
 
 ## 📢 Join Our Community
 
-- Telegram Channel: [AirdropInsiderID](https://t.me/AirdropInsiderID)
-- GitHub Repository: [3Dos-Auto-Bot](https://github.com/airdropinsiders/3Dos-Auto-Bot.git)
+- Telegram Channel: [Earn&Point](https://t.me/Earnpoint10)
+- GitHub Repository:
 
 ## ✨ Features
 
